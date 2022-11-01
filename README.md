@@ -1,1 +1,2 @@
-# Aplicativos-na-medida
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
